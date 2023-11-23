@@ -1,0 +1,25 @@
+article{
+    border-width: 2px;
+    border-style: solid;
+    }
+    aside{
+        border-width: 2px;
+    border-style: solid; 
+    }
+    img{
+        border-width: 2px;
+        border-style: solid;   
+    }
+    nav{
+        background-color: aqua;
+        border-width: 2px;
+        border-style: solid;
+    }
+    nav li{
+        display: inline;
+        background-color: black;
+        padding:5px;
+    }
+    nav a {
+        color:aqua
+    }
